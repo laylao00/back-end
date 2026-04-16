@@ -12,4 +12,8 @@ ca = 5
 h = co**2 + ca**2
 print('O cateto oposto é {}, o adjacente sendo {}, e a hipotenusa deles é {}'.format(co,ca,h))
 
-3)r; 
+3)r; numint = int(input('Digite um número inteiro.'))
+real = float(numint)
+print(real)
+
+4)r; 
