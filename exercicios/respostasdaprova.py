@@ -16,4 +16,5 @@ print('O cateto oposto é {}, o adjacente sendo {}, e a hipotenusa deles é {}'.
 real = float(numint)
 print(real)
 
-4)r; 
+4)r; As bibliotecas servem para buscar funções que não existem no python normalmente. 
+A importação da biblioteca do emoji é usando o terminal e usando o comando "pip install emoji". e após importar, você usará o comando "print(emoji.emojize('Python é :thumbs_up:')"
