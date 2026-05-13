@@ -6,3 +6,4 @@ if m >= 6.0:
     print("A sua média foi boa! Parabéns")
 else:
     print("Sua média foi ruim! Estude mais")
+print("Parábens" if m>=6 else "Estude mais")
