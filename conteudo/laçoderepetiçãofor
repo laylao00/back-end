@@ -1,0 +1,7 @@
+##LAÇOS DE REPETIÇÃO ( FOR )
+#Em laços de repetição um bloco de código e executado diversas vezes. 
+# Para que o laço não se repita diversas vezes devemos impor limite. 
+# Nas linguagens de programação chamamos esse limite de variável de controle, 
+# que realiza uma comparação com um intervalo de tempo definido para parar de executar o bloco de códigos que está dentro do laço de repetição. 
+# Em python utilizamos a sintaxe: for + variável de controle + in + range(x,y):, sendo x o início do intervalo e y o fim do intervalo. 
+# As estruturas condicionais podem ser utilizadas dentro dos laços.
