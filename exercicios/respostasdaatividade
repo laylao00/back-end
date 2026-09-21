@@ -1,0 +1,24 @@
+1) A função do comando sorte é ordenar uma lista e  mandar de volta uma lista ordenada por ordem alfabética se for letras e ordem crescente se for números.
+
+O resultado vai ser:
+'avião'
+'boné'
+'cadeira'
+'cone'
+
+2) bebidas = ('Água', 'Suco', 'Refri', 'Café')
+for pedido in bebidas:
+    print(f'Eu vou beber {pedido}')
+
+3) nomes = []
+while True:
+    nome = input(('Digite seu nome (ou sair para encerrar o programa):'))
+    if nome.lower( )== 'sair':
+        break
+    if nome.strip():
+        nomes.append(nome)
+print('\n--- Lista de Nomes ---')
+for n in nomes:
+    print(n)
+
+O comando break serve para interromper ou encerrar um laço de repetição for ou while.
